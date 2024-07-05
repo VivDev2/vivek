@@ -1,4 +1,4 @@
 class demo{
   public static void main(String [] args)
-  {System.out.println ("secondt   hedfvdfrange");}
+  {System.out.println ("secondt   hed");}
 }
